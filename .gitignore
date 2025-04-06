@@ -9,3 +9,5 @@ test/
 build/
 scripts/
 dist/
+coverage.out
+coverage.html
